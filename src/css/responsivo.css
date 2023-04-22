@@ -1,0 +1,14 @@
+@media (max-width:600px) {
+    .header .contagem-regressiva {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .container .descricao {
+        transform: translateY(250px);
+        text-align: center;
+        margin: auto;
+        font-size: 1rem;
+        max-width: 100%;
+    }
+}
